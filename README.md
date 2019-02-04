@@ -1,3 +1,4 @@
-"# AGURA7"
+# AGURA7
 
-Test! 
+The white papers are at:
+
